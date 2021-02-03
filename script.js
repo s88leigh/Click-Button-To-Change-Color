@@ -6,6 +6,6 @@ function blue() {
     div.setAttribute("id","blue");
 }
 
-function Reset() {
-    div.setAttribute("id", "box");
+function reset() {
+    div.setAttribute("id", "white");
 }

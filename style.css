@@ -1,6 +1,6 @@
 #banner {
     text-align: center;
-    width: 50%;
+    width: 500px;
     height: 40px;
     border: 1px solid black;
     box-shadow: 5px 10px lightgray;
@@ -102,6 +102,7 @@ h6 {
 }
 #demo {
    text-align: center; 
+   padding: 10px;
 }
 #green-button {
     width: 60px;

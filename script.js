@@ -50,7 +50,6 @@ function Pressed() {
 }
 
 //Demo 4: switch statement
-
 function clicked() {
     var text = document.getElementById("Inp2").value;
 

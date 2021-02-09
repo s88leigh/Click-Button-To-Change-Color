@@ -48,3 +48,34 @@ function Pressed() {
         document.getElementById("square").style.backgroundColor="white";
     }
 }
+
+//Demo 4: switch statement
+
+function clicked() {
+    var text = document.getElementById("Inp2").value;
+
+    switch (text) {
+        case "red": 
+            document.getElementById("rectangle").style.backgroundColor="red";
+            break;
+        case "blue":
+            document.getElementById("rectangle").style.backgroundColor="blue";
+            break;
+        case "green":
+            document.getElementById("rectangle").style.backgroundColor="green";
+            break;
+        case "yellow":
+            document.getElementById("rectangle").style.backgroundColor="yellow";
+            break;
+        case "purple":
+            document.getElementById("rectangle").style.backgroundColor="purple";
+            break;
+        case "orange":
+            document.getElementById("rectangle").style.backgroundColor="orange";
+            break;
+        default: 
+            document.getElementById("rectangle").style.backgroundColor="white";
+        break;
+        
+    }
+}

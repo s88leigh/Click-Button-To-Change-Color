@@ -44,4 +44,7 @@ function Pressed() {
     else if (text==="orange"){
         document.getElementById("square").style.backgroundColor="orange";
     }
+    else {
+        document.getElementById("square").style.backgroundColor="white";
+    }
 }

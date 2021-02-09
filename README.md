@@ -9,3 +9,7 @@ This code demonstrates the use of functions to change the color of the text. By 
 ##Demo 3
 # Enter a Color from List
 This code demonstrates the use of functions using If, Else if, Else.  Once the user enters a color of their choice from the list, the color entered will appear in the box.  Any color not on the list will set the box to a default color of white.
+
+##Demo 4
+# # Enter a Color from List
+This code demonstrates the use of functions using Switch Statement.  Once the user enters a color of their choice from the list, the color entered will appear in the box.  Any color not on the list will set the box to a default color of white.

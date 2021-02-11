@@ -81,6 +81,7 @@ h4 {
 }
 #Inp1 {
     margin-left: 100px;
+    border-color: blue;
 }
 #list {
     margin-top: 20px;
@@ -173,4 +174,5 @@ h6 {
 
 #Inp2 {
     margin-left: 100px;
+    border-color: blue;
 }

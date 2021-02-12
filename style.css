@@ -176,3 +176,22 @@ h6 {
     margin-left: 100px;
     border-color: blue;
 }
+
+
+#row-input{
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
+h4 {
+    padding-bottom: 20px;
+    text-align: center;
+}
+#inp {
+    width: 120px;
+    border-color: blue;
+}
+#output {
+    font-size: medium;
+    text-align: center;
+}
+

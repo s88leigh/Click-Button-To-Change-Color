@@ -24,7 +24,7 @@ function black() {
 
 //Demo 3: If, else statement
 function Pressed() {
-    var text = document.getElementById("Inp1").value;
+    var text = document.getElementById("Inp1").value.trim().toLowerCase();
 
     if (text==="red"){
         document.getElementById("square").style.backgroundColor="red";
@@ -51,7 +51,7 @@ function Pressed() {
 
 //Demo 4: switch statement
 function clicked() {
-    var text = document.getElementById("Inp2").value;
+    var text = document.getElementById("Inp2").value.trim().toLowerCase();
 
     switch (text) {
         case "red": 

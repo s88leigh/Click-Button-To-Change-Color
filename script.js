@@ -86,9 +86,8 @@ function submit() {
     if (text > 21) {
         output.innerHTML = "You are over 21. Please drink responsibly!";
     } else if (text == 21) {
-        output.innerHTML = "You are 21. Please drink responsibly!"
-    }
-    else{
+        output.innerHTML = "You are 21. Go for it!"
+    }else{
         output.innerHTML = "Sorry, You are NOT of legal drinking age";
     }
 }

@@ -80,7 +80,7 @@ function clicked() {
 }
 // Demo 5: If, Else If, Else Statement
 function submit() { 
-    var text = parseInt(document.getElementById("inp").value);
+    var text = parseInt(document.getElementById("inp").value.trim());
     var output = document.getElementById("output");
    
     if (text > 21) {

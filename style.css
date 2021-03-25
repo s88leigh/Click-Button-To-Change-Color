@@ -1,4 +1,7 @@
-.card {
+
+body {
+    background-color:aliceblue;
+}.card {
     margin: 10px;
 }
 .card-body {
@@ -8,17 +11,12 @@
     border: 1px solid black;
     box-shadow: 5px 10px lightgray;
     margin: auto;
-    background-color: rgb(144, 187, 230);
+    background-color:azure;
     padding: 10px;
 }
 
 
-.banner-text {
-   
 
-    
-  
-}
 
 #white {
     margin-bottom: 20px;
@@ -46,7 +44,7 @@
 }
 #container {
     display: block;
-    border: 10px solid black;
+    border: 2px solid black;
     padding: 10px;
     width: 400px;
     height: 180px;
@@ -56,7 +54,7 @@
 }
 #container-3 {
     display: block;
-    border: 10px solid black;
+    border: 5px solid black;
     padding: 10px;
     width: 500px;
     height: 300px;

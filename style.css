@@ -2,7 +2,9 @@
 body {
     background-color:aliceblue;
 }.card {
-    margin: 10px;
+    margin: 10px auto;
+    width: 500px;
+    height: 50px;
 }
 .card-body {
     text-align: center;
@@ -11,11 +13,12 @@ body {
     border: 1px solid black;
     box-shadow: 5px 10px lightgray;
     margin: auto;
-    background-color:azure;
     padding: 10px;
 }
 
-
+.banner {
+    background-color:cadetblue;
+}
 
 
 #white {
@@ -51,16 +54,18 @@ body {
     margin: auto;
     margin-top: 10px;
     margin-bottom: 40px;
+    background-color:azure;
 }
 #container-3 {
     display: block;
-    border: 5px solid black;
+    border: 2px solid black;
     padding: 10px;
     width: 500px;
     height: 300px;
     margin: auto;
     margin-top: 10px;
     margin-bottom: 40px;
+    background-color:azure;
 }
 #row-box {
     height: 100px;
